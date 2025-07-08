@@ -15,7 +15,7 @@ Me chamo Felipe Luan, tenho 18 anos, sou desenvolvedor fullstack em formação p
 
 </div>
 <div  align="center" style="display: inline_block"><br>
-<img align="center" alt="Kaike-Python" height="180" width="180" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif">
+<img align="center" alt="Feluan-Python" height="180" width="180" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif">
 
   ## My Stack
   
