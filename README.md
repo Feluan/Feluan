@@ -6,7 +6,7 @@
 
   ##  👨🏻‍💻 Felipe Luan 
 
-Me chamo Felipe Luan, tenho 18 anos, sou desenvolvedor fullstack em formação pelo projeto <strong> FORD ENTER </strong> e estou começando minha jornada no mundo da programação. Desde que tive meu primeiro contato com tecnologia, descobri uma paixão por criar, resolver problemas e transformar ideias em algo real através do código. Estou sempre buscando aprender mais, seja em desenvolvimento web, inteligência artificial ou qualquer área que me desafie. Cada projeto é uma oportunidade de crescer, e encaro cada linha de código como um passo em direção ao meu futuro na área tech.<br>
+Me chamo Felipe Luan, tenho 18 anos, sou desenvolvedor Front-End em formação pelo projeto <strong> FORD ENTER </strong> e estou começando minha jornada no mundo da programação. Desde que tive meu primeiro contato com tecnologia, descobri uma paixão por criar, resolver problemas e transformar ideias em algo real através do código. Estou sempre buscando aprender mais, seja em desenvolvimento web, inteligência artificial ou qualquer área que me desafie. Cada projeto é uma oportunidade de crescer, e encaro cada linha de código como um passo em direção ao meu futuro na área tech.<br>
 
 <div  align="center" style="display: inline_block"><br>
 - 🏎 Projeto FordEnter<br>
